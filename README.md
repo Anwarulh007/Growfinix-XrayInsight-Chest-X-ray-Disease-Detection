@@ -2,6 +2,9 @@
 
 This project is a simple and clean Streamlit-based dashboard designed to visualize Chest X-ray images along with sample disease prediction data. It provides an intuitive interface that can easily demonstrate the output of a deep-learning pipeline, even if the backend model is running separately.
 
+![Flowchart](https://github.com/Anwarulh007/Growfinix-XrayInsight-Chest-X-ray-Disease-Detection/blob/main/Flowchart%20.png?raw=true)
+
+
 ## 🚀 Features
 
 * 📌 Center-aligned X-ray image display
@@ -143,4 +146,5 @@ Feel free to clone, explore, and contribute! 😊
 Made with ❤️ by **Anwarul**
 
 👉 http://localhost:8501/
+
 
